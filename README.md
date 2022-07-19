@@ -1,7 +1,7 @@
 # capstone
 
-##https://www.pupilfirst.school/
+## https://www.pupilfirst.school/
 
-###WD101 Capstone Project
+### WD101 Capstone Project
 
-###Personal Portfolio with Survey Form
+### Personal Portfolio with Survey Form
