@@ -21,10 +21,10 @@ dob.addEventListener("input", function (e) {
   let yyyy = today.getFullYear() - d[0];
   let age = yyyy + mm / 12 + dd / (30 * 12);
   if (age < 18) {
-    email.setCustomValidity("You must be atleat 18 Years of age");
+    email.setCustomValidity("You must be atleat 18 Years of age !!");
     email.reportValidity();
   } else if (age > 55) {
-    email.setCustomValidity("You must not be more than 55 Years of age");
+    email.setCustomValidity("You must not be more than 55 Years of age !!");
     email.reportValidity();
   } else {
     email.setCustomValidity("");
