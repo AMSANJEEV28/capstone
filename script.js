@@ -23,8 +23,8 @@ dob.addEventListener("input", function (e) {
   if (age < 18) {
     email.setCustomValidity("You must be atleat 18 Years of age");
     email.reportValidity();
-  } else if (age > 54) {
-    email.setCustomValidity("You must not be more than 54 Years of age");
+  } else if (age > 55) {
+    email.setCustomValidity("You must not be more than 55 Years of age");
     email.reportValidity();
   } else {
     email.setCustomValidity("");
