@@ -1,6 +1,7 @@
 # capstone
 
 ## https://www.pupilfirst.school/
+## https://amsanjeev28.github.io/capstone/
 
 ### WD101 Capstone Project
 
